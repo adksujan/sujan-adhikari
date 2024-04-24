@@ -1,0 +1,18 @@
+baseURL = 'https://sujan-adhikari.com.np/'
+languageCode = 'en-us'
+title = 'Sujan Adhikari'
+theme = 'paper'
+
+[params]
+color = 'wheat'
+
+github = 'adksujan'
+linkedin = 'sujan-adhikari'
+rss = 'true'
+
+avatar = 'GRAVATAR_EMAIL'
+name = 'Sujan Adhikari'
+
+monoDarkIcon = true
+
+

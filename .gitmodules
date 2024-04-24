@@ -1,0 +1,6 @@
+[submodule "qubt"]
+	path = qubt
+	url = https://github.com/chrede88/qubt.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
